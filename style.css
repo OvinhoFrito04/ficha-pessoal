@@ -1,0 +1,27 @@
+body{
+    background-image: url(https://i.giphy.com/gYWeVOiMmbg3kzCTq5.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  background-position: center;
+
+ul
+  {
+
+  justify-content: space-around;
+  display: flex;
+  list-style: none;
+  padding: 300px;
+  }
+  a
+
+ {
+
+  color: rgb(255, 163, 25);
+  text-decoration:wavy;
+text-decoration-color:rgb(218, 63, 2);
+text-size-adjust: 100;
+text-shadow:rgb(10, 47, 212) height=100px;
+ }
+
+  }
